@@ -1,8 +1,9 @@
 # microSD Card Reader
 An SPI controlled microSD card reader with builtin status LED and push/push card mechanism and card detect.
 ## PCB Layout
-![GPIO Expander Board Image](https://github.com/AdamKeher/microSD-Reader/blob/master/files/microSDReader_Front.png)
-![GPIO Expander Board Image](https://github.com/AdamKeher/microSD-Reader/blob/master/files/microSDReader_Back.png)
+![GPIO Expander Board Image](https://github.com/AdamKeher/microSD-Reader/blob/master/files/microSD_top.png)
+![GPIO Expander Board Image](https://github.com/AdamKeher/microSD-Reader/blob/master/files/microSD_front.png)
+![GPIO Expander Board Image](https://github.com/AdamKeher/microSD-Reader/blob/master/files/microSD_back.png)
 ![GPIO Expander Board Image](https://github.com/AdamKeher/microSD-Reader/blob/master/files/board.png)
 ## Features
 * 3.3v tolerant
